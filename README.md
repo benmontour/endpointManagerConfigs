@@ -1,2 +1,2 @@
 # endpointManagerConfigs
-Different configuration files for Microsoft Intune
+Different configuration files for Microsoft Endpoint Manager
