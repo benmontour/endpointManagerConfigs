@@ -1,2 +1,4 @@
 # endpointManagerConfigs
-Different configuration files for Microsoft Endpoint Manager
+Configuration files for Microsoft Endpoint Manager
+
+Configs were exported and can be reimported using https://github.com/jseerden/IntuneBackupAndRestore
